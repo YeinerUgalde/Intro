@@ -29,4 +29,3 @@ def fig_total(l,a,p):
     print(piezas)
    
    
-kk 
